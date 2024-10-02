@@ -1,0 +1,126 @@
+*{ margin:0;
+   padding:0;
+}
+body{ background-color:#EEE;
+}
+.container{ max-width:1000px;
+            background-color:rgba(0,255,0,.3);
+			margin:0 auto;
+}
+header{
+}
+.profile-photo{ width:100px;
+                height:120px;
+				border:3px solid green;
+				border-radius:50%;
+				float:left;
+				margin-top:10px;
+				margin-left:10px;
+				
+}
+.header-bio{ float:left;
+             padding:30px;
+}
+h1,h2,h3,h4,h5,h6{ color:gray;
+}
+.header-contact{ float:right;
+                 margin-top:30px;
+				 margin-right:10px;
+}
+a{ text-decoration:none;
+   color:rgba(140,0,50,1);
+   font-weight:bold;
+}
+a:hover{ color:blue;
+         text-decoration:underline;
+                         
+}
+.clear-div{ clear:both;
+}
+hr{ border:3px solid black;
+    width:100%;
+	border-bottom:none;
+	/* header task end */
+}
+#section1{ margin-top:20px;
+
+}
+.content{ 
+}
+.leftside{ width:30%;
+           float:left;
+}
+.rightside{ width:70%;
+            float:right;
+}
+.common-hr{ border:solid black 1px;
+            border-bottom:none;
+			width:100%;
+			margin:20px auto;
+}
+#section2{ margin-top:20px;
+}
+.content2{ 
+}
+.leftside2{ width:30%;
+           float:left;
+}
+.rightside2{ width:70%;
+            float:right;
+}
+#section3{ margin-top:20px;
+}
+.content3{ 
+}
+.leftside3{ width:30%;
+           float:left;
+}
+.rightside3{ width:70%;
+            float:right;
+}
+.rightside3left{ width:50%;
+                 float:left;
+}
+.rightside3right{width:50%;
+                 float:right;
+}
+#section4{ margin-top:20px;
+
+}
+.content4{ 
+}
+.leftside4{ width:30%;
+           float:left;
+}
+.rightside4{ width:70%;
+            float:right;
+}
+#section5{ margin-top:20px 20px;
+           
+}
+.content5{
+}
+.leftside5{ width:30%;
+            float:left;
+            
+}
+.rightside5{ width:70%;
+             float:right;
+}
+.rightside5left{ width:50%;
+                 float:left;
+}
+.rightside5right{ width:50%;
+                  float:right;
+}
+.bottom{ background-color:black;
+         text-align:center;
+		 padding:10px;
+}
+.bottom a{ color:white;
+           text-decoration:none;
+		   margin:20px;
+}
+.bottom p{ color:white;
+		   margin-top:20px;
+}
